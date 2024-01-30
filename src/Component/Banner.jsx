@@ -14,7 +14,7 @@ const Banner = () => {
   return (
     <>
      
-      <div className="flex flex-col justify-center absolute left-[35%] top-[60%] items-center gap-5">
+      <div className="flex flex-col justify-center h-screen m-auto  items-center gap-5">
       <h1 className="px-8 py-4  bg-white cursor-text rounded-lg shadow-lg shadow-cyan-600 text-[12px] md:text-[16px] font-extrabold ">
       Minted NFT : 480/11569
           </h1>
